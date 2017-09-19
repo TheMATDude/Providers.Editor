@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TranslationProviders>
+  <Providers>
+    <Provider>
+      <ID>AD735FAE-6153-4A46-A344-CFFB94148998</ID>
+      <Name>PseudoTranslationProvider</Name>
+      <ConfigFile>MicrosoftPesudoProvider\PseudoSettings.xml</ConfigFile>
+      <AssemblyPath>PseudoTranslationProvider.dll</AssemblyPath>
+    </Provider>
+    <Provider>
+      <ID>63C43CC6-4B03-4F27-935B-FCAF2E4238E0</ID>
+      <Name>LanguagePortalTranslationProvider</Name>
+      <ConfigFile>MicrosoftLanguagePortalProvider\LanguagePortalSettings.xml</ConfigFile>
+      <AssemblyPath>LanguagePortalTranslationProvider.dll</AssemblyPath>
+    </Provider>
+    <Provider>
+      <ID>B7F979A8-D491-451C-84E8-F0C49BE620E3</ID>
+      <Name>MicrosoftTranslationProvider</Name>
+      <ConfigFile>MicrosoftTranslatorProvider\TranslatorSettings.xml</ConfigFile>
+      <AssemblyPath>MicrosoftTranslationProvider.dll</AssemblyPath>
+    </Provider>
+  </Providers>
+</TranslationProviders>
